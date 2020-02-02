@@ -18,4 +18,14 @@ public class Demo1
 	{
 		Reporter.log("3", true);
 	}
+	@Test
+	public void Test4()
+	{
+		Reporter.log("4", true);
+	}
+	@Test
+	public void Test5()
+	{
+		Reporter.log("5", true);
+	}
 }
